@@ -21,6 +21,9 @@ Board is then updated in real-time to display any changes.
 * Black Dot - Weight
 * Black - Wall
 
+#### Settings
+<img src="https://github.com/Paink64/Images/blob/main/Visualizer/Path%20Finder.JPG" width=40%>
+
 ### Nth Queen Problem
 #### Board
 <img src="https://github.com/Paink64/Images/blob/main/Visualizer/Nth%20Queen%20Problem%20Board.JPG" width=40%>
@@ -28,26 +31,19 @@ Board is then updated in real-time to display any changes.
 #### Nodes
 <img src="https://github.com/Paink64/Images/blob/main/Visualizer/Nth%20Queen%20Problem%20Node.JPG" width=10%>
 
+#### Settings
+<img src="https://github.com/Paink64/Images/blob/main/Visualizer/Nth%20Queen%20Problem.JPG" width=40%>
+
 ### Sorter
 #### Board
 <img src="https://github.com/Paink64/Images/blob/main/Visualizer/Sorter%20Board.JPG" width=40%>
+
+#### Settings
+<img src="https://github.com/Paink64/Images/blob/main/Visualizer/Sorter.JPG" width=40%>
 
 ### Sudoku
 #### Board
 <img src="https://github.com/Paink64/Images/blob/main/Visualizer/Sudoku%20Board.JPG" width=40%>
 
-## Settings
-
-What can be modified within the settings changes depending on the selected project.
-
-### Path Finder
-<img src="https://github.com/Paink64/Images/blob/main/Visualizer/Path%20Finder.JPG" width=40%>
-
-### Nth Queen Problem
-<img src="https://github.com/Paink64/Images/blob/main/Visualizer/Nth%20Queen%20Problem.JPG" width=40%>
-
-### Sorter
-<img src="https://github.com/Paink64/Images/blob/main/Visualizer/Sorter.JPG" width=40%>
-
-### Sudoku
+#### Settings
 <img src="https://github.com/Paink64/Images/blob/main/Visualizer/Sudoku.JPG" width=40%>
